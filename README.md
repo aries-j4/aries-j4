@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Bhumika @aries-j4
 - 👀 I’m interested in web and game development and programming in general
+- 🌱 I'm currently learning Django and React
 - 💞️ I’m looking to collaborate on meaningful open-source projects
 - 📫 How to reach me <a href="https://www.linkedin.com/in/joshi-bhumika/">LinkedIn</a> <a href="https://twitter.com/__mikashi"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" style="height: 15px;">Twitter</a>   
 - These are the languages and technologies I currently know:  
